@@ -1,0 +1,19 @@
+{
+  "name": "c9ejercicos",
+  "version": "0.0.0",
+  "description": "proyecto de node con c9.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony $(which node) test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonasnahum/c9ejercicios.git"
+  },
+  "author": "jonas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasnahum/c9ejercicios/issues"
+  },
+  "homepage": "https://github.com/jonasnahum/c9ejercicios"
+}
