@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jonasnahum/c9ejercicios/issues"
   },
-  "homepage": "https://github.com/jonasnahum/c9ejercicios"
+  "homepage": "https://github.com/jonasnahum/c9ejercicios",
+  "dependencies": {
+    "nodeunit": "^0.9.0"
+  }
 }
